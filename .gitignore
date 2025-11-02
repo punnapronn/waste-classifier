@@ -1,0 +1,11 @@
+# Ignore data and model
+data/
+models/
+outputs/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+waste-cnn/
