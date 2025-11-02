@@ -1,7 +1,8 @@
-# Waste Sorting Classifier (MobileNetV2 Transfer Learning)
+# Automatic Waste Classifier using MobileNetV2 
 
-โปรเจกต์นี้ใช้พลังของ **Deep Learning (Convolutional Neural Network - CNN)**  ร่วมกับเทคนิค **Transfer Learning จาก MobileNetV2**  เพื่อสร้างระบบจำแนกประเภทขยะที่สามารถบอกได้ว่า **ภาพนี้คือขยะประเภทใด** เช่น Plastic, Paper, Metal, Glass, Organic, Battery ฯลฯ 
+[click](https://drive.google.com/file/d/1QrVP1EJfp2vmg0xgEAVhkjWKz-5hcg4i/view?usp=sharing) for download final_report.pdf 
 
+(เนื่องจากมีปัญหาในการแปลงไฟล์เป็น .md ขออนุญาตทำแบบนี้นะคะ t-t)
 ## Prepare Dataset
 
 [click](https://www.kaggle.com/datasets/wasifmahmood01/custom-waste-classification-dataset/data) for install Dataset from Kaggle
